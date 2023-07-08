@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Logo](https://github.com/noe-martins/noe-martins/blob/main/Title_github.png)
 
 <!--
 **noe-martins/noe-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
