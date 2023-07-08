@@ -4,7 +4,7 @@
 <br>
 
 <div style="display: inline_block"><br>
-    <img align="right" height="450" alt="coding-time" src="code_.gif">
+    <img align="right" height="350" alt="coding-time" src="code_.gif">
     <p align="left">🌱 Eu estou atualmente aprendendo CSS, JS e Java.</p>
 </div>
 
