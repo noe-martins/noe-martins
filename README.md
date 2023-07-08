@@ -8,6 +8,7 @@
     <ul>
         <li align="left">🌱 Eu estou atualmente aprendendo CSS, JS e Java.</li>
         <li align="left">🖥️ Todos os meus projetos estão disponíveis em <a href="https://github.com/noe-martins">noe-martins</li>
+        <li align="left">📧 Como entrar em contato comigo: <a href="noahmartins11@gmail.com">noahmartins11@gmail.com</li>
     </ul>
 </div>
 
