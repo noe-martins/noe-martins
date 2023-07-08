@@ -4,7 +4,7 @@
 <br>
 
 <div style="display: inline_block"><br>
-    <img align="right" height="350" alt="coding-time" src="code_.gif">
+    <img align="right" height="300" alt="coding-time" src="code_.gif">
     <ul>
         <li align="left">🌱 Eu estou atualmente aprendendo CSS, JS e Java.</li>
         <li align="left">🖥️ Todos os meus projetos estão disponíveis em <a href="https://github.com/noe-martins">noe-martins</li>
