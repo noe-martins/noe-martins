@@ -20,7 +20,7 @@
     <h2>🗣️ Redes Sociais</h2>
     
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-</div><br><br><br><br>
+</div><br><br>
 <hr>
 
 <div style="display: inline_block">
