@@ -23,7 +23,7 @@
 <div style="display: inline_block">
   <a href="https://github.com/noe-martins">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=noe-martins&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=noe-martins&layout=compact&langs_count=16&theme=radical"/>
+    <!-- <img align="right" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=noe-martins&layout=compact&langs_count=16&theme=radical"/> -->
 </div>
 
 <!--
