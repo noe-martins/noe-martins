@@ -1,6 +1,13 @@
 ![Logo](https://github.com/noe-martins/noe-martins/blob/main/Title_github.png)
 <hr>
 <h4 align="center">Desenvolvedor web em formação, apaixonado por criar experiências digitais cativantes. Estudante de Ciência da Computação, imerso no mundo do desenvolvimento web e desvendando suas infinitas possibilidades.</h4>
+<br>
+
+<div style="display: inline_block"><br>
+    <img align="right" height="250" alt="coding-time" src="code_.gif">
+    <p align="left">🌱 Eu estou atualmente aprendendo CSS, JS e Java.</p>
+</div>
+
 <!--
 **noe-martins/noe-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
