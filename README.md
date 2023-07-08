@@ -18,6 +18,8 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://github.com/noe-martins/noe-martins/blob/main/java.png">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+<hr>
+
 
 <!--
 **noe-martins/noe-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
