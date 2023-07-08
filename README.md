@@ -26,8 +26,6 @@
   <!-- <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noe-martins&layout=donut-vertical&langs_count=16&theme=radical"/> -->
 </div>
 <br>
-
-![Snake animation](https://github.com/noe-martins/noe-martins/blob/output/github-contribution-grid-snake.svg)
 <!--
 **noe-martins/noe-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
