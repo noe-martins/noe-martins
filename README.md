@@ -10,7 +10,13 @@
         <li align="left">🖥️ Todos os meus projetos estão disponíveis em <a href="https://github.com/noe-martins">noe-martins</li>
         <li align="left">📧 Como entrar em contato comigo: <a href="noahmartins11@gmail.com">noahmartins11@gmail.com</li>
         <li align="left">⚡ Curiosidade divertida: Fanático por Surf🏄🏽</li>
-    </ul>
+    </ul>  
+    <h2>⚙️Linguagens e Ferramentas</h2>
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://www.flaticon.com/free-icons/java" title="java icons">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
 <!--
