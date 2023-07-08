@@ -5,7 +5,9 @@
 
 <div style="display: inline_block"><br>
     <img align="right" height="350" alt="coding-time" src="code_.gif">
-    <p align="left">🌱 Eu estou atualmente aprendendo CSS, JS e Java.</p>
+    <ul>
+        <li align="left">🌱 Eu estou atualmente aprendendo CSS, JS e Java.</li>
+    </ul>
 </div>
 
 <!--
