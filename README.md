@@ -1,6 +1,6 @@
 ![Logo](https://github.com/noe-martins/noe-martins/blob/main/Title_github.png)
 <hr>
-<h4 align="center">Desenvolvedor web em formação, apaixonado ❤️ por criar experiências digitais cativantes. Estudante de Ciência da Computação🧑‍💻, imerso no mundo do desenvolvimento web e desvendando suas infinitas possibilidades.</h4>
+<h4 align="center">Desenvolvedor web Front End em formação, apaixonado ❤️ por criar experiências digitais cativantes. Estudante de Ciência da Computação🧑‍💻, imerso no mundo do desenvolvimento web e desvendando suas infinitas possibilidades.</h4>
 <br>
 
 <div style="display: inline_block"><br>
